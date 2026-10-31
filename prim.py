@@ -3,9 +3,9 @@ V = 8
 # Матриця суміжності для Варіанту 2
 G = [
     [0, 1, 6, 2, INF, INF, INF, INF],
-    [1, 0, INF, 4, 9, 5, INF, INF],
-    [6, INF, 0, INF, INF, 8, INF, 9],
-    [2, 4, INF, 0, 1, INF, INF, INF],
+    [1, 0, INF, INF, 9, 5, INF, INF],
+    [6, INF, 0, 4, INF, 8, INF, 9],
+    [2, INF, 4, 0, 1, INF, INF, INF],
     [INF, 9, INF, 1, 0, INF, 6, INF],
     [INF, 5, 8, INF, INF, 0, 2, INF],
     [INF, INF, INF, INF, 6, 2, 0, 4],
